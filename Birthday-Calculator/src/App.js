@@ -14,7 +14,7 @@ function App() {
             setPeople([]);
           }}
         >
-          Clear All
+          CLEAR ALL
         </button>
       </section>
     </main>
