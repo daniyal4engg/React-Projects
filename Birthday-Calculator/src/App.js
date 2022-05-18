@@ -3,7 +3,7 @@ import data from "./data";
 import List from "./List";
 function App() {
   const [people, setPeople] = useState(data);
-  // console.log(data[0].name);
+  console.log(data[0].name);
   return (
     <main>
       <section className="container">
